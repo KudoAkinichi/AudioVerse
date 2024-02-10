@@ -1,6 +1,7 @@
 # Project AudioVerse Version 1.0
 
 An elegant React.js Music Application.
+This project really helped me get a key understanding on api, state managemen tools (redux) and other frontend tools.
 
 ![image](https://github.com/KudoAkinichi/AudioVerse/assets/105040194/6cd0b904-e6f1-4f95-94de-4554364dcbfe)
 
